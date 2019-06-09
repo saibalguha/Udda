@@ -36,8 +36,8 @@
                                 <rect key="frame" x="88" y="384" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Milk" translatesAutoresizingMaskIntoConstraints="NO" id="MMl-8S-F2h">
-                                <rect key="frame" x="98" y="552" width="240" height="128"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="A64B9754CD908E57_Mishti-Doi" translatesAutoresizingMaskIntoConstraints="NO" id="ZIZ-Lj-v5R">
+                                <rect key="frame" x="95" y="557" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -50,7 +50,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="A64B9754CD908E57_Mishti-Doi" width="1920" height="1440"/>
         <image name="Cow" width="425" height="326"/>
-        <image name="Milk" width="400" height="400"/>
     </resources>
 </document>
